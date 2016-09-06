@@ -1,0 +1,3 @@
+This is a simple example of solution for printshop. It is possible (and better) to separately keep track of customers and their orders. After improvements  You can add automatic calculation of prices, the formation of invoices, control of payments. You can connect informing customers via SMS or email on the progress of orders or shipment. I will be glad to have your comments.
+
+To work with this file you need to use the username "Test" —  password is not required. However, the file has a limitation of 25 records. After trying to make 26 entries all records will be deleted. Be careful. It’s not real solution for real work.

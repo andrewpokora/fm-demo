@@ -1,8 +1,0 @@
-﻿Timestamp	Filename	Error	Message
-2016-09-12 21:24:56.496 +0300	HospitalPatientRoundsDatabase.fmp12	0	Import operations started
-2016-09-12 21:24:56.500 +0300	HospitalPatientRoundsDatabase.fmp12	0	Import of tables from file “GEN.medicine.xlsx” started
-2016-09-12 21:24:56.504 +0300	GEN.medicine	0	fields imported : 2
-2016-09-12 21:24:56.505 +0300	HospitalPatientRoundsDatabase.fmp12	0	tables imported : 1
-2016-09-12 21:24:56.505 +0300	HospitalPatientRoundsDatabase.fmp12	0	Import completed
-2016-09-12 21:24:56.506 +0300	HospitalPatientRoundsDatabase.fmp12	0	Import operations committed
-2016-09-12 21:24:56.506 +0300	HospitalPatientRoundsDatabase.fmp12	0	==================================================================

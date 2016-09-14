@@ -1,8 +1,31 @@
 ﻿Timestamp	Filename	Error	Message
-2016-09-12 21:24:56.496 +0300	HospitalPatientRoundsDatabase.fmp12	0	Import operations started
-2016-09-12 21:24:56.500 +0300	HospitalPatientRoundsDatabase.fmp12	0	Import of tables from file “GEN.medicine.xlsx” started
-2016-09-12 21:24:56.504 +0300	GEN.medicine	0	fields imported : 2
-2016-09-12 21:24:56.505 +0300	HospitalPatientRoundsDatabase.fmp12	0	tables imported : 1
-2016-09-12 21:24:56.505 +0300	HospitalPatientRoundsDatabase.fmp12	0	Import completed
-2016-09-12 21:24:56.506 +0300	HospitalPatientRoundsDatabase.fmp12	0	Import operations committed
-2016-09-12 21:24:56.506 +0300	HospitalPatientRoundsDatabase.fmp12	0	==================================================================
+2016-09-13 09:48:06.553 +0300	HospitalPatientRoundsDatabase.fmp12	0	Import operations started
+2016-09-13 09:48:06.555 +0300	HospitalPatientRoundsDatabase.fmp12	0	Import of fields from clipboard started
+2016-09-13 09:48:06.583 +0300	ROUNDITEM	0	fields imported : 17
+2016-09-13 09:48:06.583 +0300	HospitalPatientRoundsDatabase.fmp12	0	Import completed
+2016-09-13 09:48:22.556 +0300	HospitalPatientRoundsDatabase.fmp12	0	Import of fields from clipboard started
+2016-09-13 09:48:22.578 +0300	ROUNDITEM	0	fields imported : 7
+2016-09-13 09:48:22.579 +0300	HospitalPatientRoundsDatabase.fmp12	0	Import completed
+2016-09-13 10:06:34.038 +0300	HospitalPatientRoundsDatabase.fmp12	0	Import operations committed
+2016-09-13 10:06:34.038 +0300	HospitalPatientRoundsDatabase.fmp12	0	==================================================================
+2016-09-13 10:12:30.482 +0300	HospitalPatientRoundsDatabase.fmp12	0	Import operations started
+2016-09-13 10:12:30.488 +0300	HospitalPatientRoundsDatabase.fmp12	0	Import of fields from clipboard started
+2016-09-13 10:12:30.490 +0300	ROUNDSLIST	0	fields imported : 1
+2016-09-13 10:12:30.490 +0300	HospitalPatientRoundsDatabase.fmp12	0	Import completed
+2016-09-13 10:15:38.876 +0300	HospitalPatientRoundsDatabase.fmp12	0	Import of fields from clipboard started
+2016-09-13 10:15:38.894 +0300	ROUNDSLIST	0	fields imported : 7
+2016-09-13 10:15:38.895 +0300	HospitalPatientRoundsDatabase.fmp12	0	Import completed
+2016-09-13 10:16:28.149 +0300	HospitalPatientRoundsDatabase.fmp12	0	Import operations committed
+2016-09-13 10:16:28.149 +0300	HospitalPatientRoundsDatabase.fmp12	0	==================================================================
+2016-09-13 10:17:36.053 +0300	HospitalPatientRoundsDatabase.fmp12	0	Import operations started
+2016-09-13 10:17:36.054 +0300	HospitalPatientRoundsDatabase.fmp12	0	Import of fields from clipboard started
+2016-09-13 10:17:36.057 +0300	ROUNDITEM	0	fields imported : 1
+2016-09-13 10:17:36.058 +0300	HospitalPatientRoundsDatabase.fmp12	0	Import completed
+2016-09-13 10:18:51.116 +0300	HospitalPatientRoundsDatabase.fmp12	0	Import operations committed
+2016-09-13 10:18:51.116 +0300	HospitalPatientRoundsDatabase.fmp12	0	==================================================================
+2016-09-14 19:43:50.349 +0300	HospitalPatientRoundsDatabase.fmp12	0	Import operations started
+2016-09-14 19:43:50.350 +0300	HospitalPatientRoundsDatabase.fmp12	0	Import of fields from clipboard started
+2016-09-14 19:43:50.370 +0300	ADMISSION	0	fields imported : 6
+2016-09-14 19:43:50.370 +0300	HospitalPatientRoundsDatabase.fmp12	0	Import completed
+2016-09-14 19:43:53.082 +0300	HospitalPatientRoundsDatabase.fmp12	0	Import operations committed
+2016-09-14 19:43:53.082 +0300	HospitalPatientRoundsDatabase.fmp12	0	==================================================================

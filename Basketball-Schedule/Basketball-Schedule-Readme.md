@@ -12,6 +12,11 @@ In this decision, I decided to do without navigation on the main screen with the
 
 Anyway, I made a sample timetable on the proposed description and in its sole discretion.
 
+## Files
+- Basketball-Schedule.fmp12	- sample of database
+- OriginalScreen.png - screenshot from original task
+- Srceens.zip - archive with screenshots of this database
+
 ## Ideas
 I think a good idea to add the following features:
 - the list of players in teams;

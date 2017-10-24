@@ -8,6 +8,9 @@ This is a simple example of solution for printshop. I made this just for fun, wh
 - Scheme.xlsx - scheme file
 - Screen.zip - archive with screenshots of this DB
 
+## User Access
+For demo, use login = "Tester", password = "Test"
+
 ## Notes
 I think it's better to store data about tickets and customers in different tables and work with them in different tables. In addition, in the future it will allow track information about the contact persons in the companies-customers or companies-partners.
 

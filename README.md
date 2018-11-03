@@ -1,7 +1,13 @@
-# fm-demo
-## Demo of FileMaker custom-apps
-Here are collected various test projects or demo FileMaker databases. The files were created as a sample (for example, prototype) a workable (maybe) design. Every file is absolutely working, it can be downloaded and used.
+# Donor Management
 
-Keep in mind, FileMaker files are (a) binary and (b) large.
+## About
+This is a simple example of solution for donor management. I made this just as prototype for real customer. I did it as part of a real project. This project was abandoned and not brought to completion. However, it is quite a working solution.
 
-You can always write comments and suggestions in the comments.
+## Files
+- DonorManagement.fmp12	- file of database
+
+## User Access
+File started with user User without password. User have [Data Entry Only] access level
+
+## Limitations
+You can't edit the layers, variables, or anything else. You can only add the data. Please keep this in mind. This file is not intended for real work — it's just a concept that could be done for the customer, but remained at the level of ideas.
